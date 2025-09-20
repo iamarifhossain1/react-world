@@ -1,0 +1,15 @@
+.country {
+    border: 2px solid salmon;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.img-size {
+    width: 400px;
+    height: 300px;
+}
+
+.country-visited {
+    background-color: salmon;
+}
